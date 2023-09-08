@@ -1,5 +1,5 @@
-# code-llama-50k
-Run code-llama with 50k tokens using flash attention and better transformer
+# code-llama-32k
+Run code-llama with 32k tokens using flash attention and better transformer
 
 ## Basic Jupyter Notebook (only works on Nvidia GPUs, not Mac).
 Option 1 - Google Colab:
