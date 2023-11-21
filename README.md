@@ -5,7 +5,6 @@ Run code-llama with 32k tokens using flash attention and better transformer
 Option 1 - Google Colab:
 - Download the ipynb notebook
 - Select a GPU
-  - T4 will allow for 8k context length
   - A100 with 40 GB will allow for 25k context length
  
 Option 2 - Run on a server (e.g. AWS or [RunPod (affiliate link)](https://tinyurl.com/yjxbdc9w))
